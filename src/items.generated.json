@@ -1,0 +1,1667 @@
+﻿[
+    {
+        "id":  "choice-01",
+        "name":  "choice-01",
+        "rarity":  "gold",
+        "kind":  "choiceBox",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gold-01",
+        "name":  "gold-01",
+        "rarity":  "gold",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gold-02",
+        "name":  "gold-02",
+        "rarity":  "gold",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gold-03",
+        "name":  "gold-03",
+        "rarity":  "gold",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gold-04",
+        "name":  "gold-04",
+        "rarity":  "gold",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-01",
+        "name":  "red-01",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-02",
+        "name":  "red-02",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-03",
+        "name":  "red-03",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-04",
+        "name":  "red-04",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-05",
+        "name":  "red-05",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-06",
+        "name":  "red-06",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-07",
+        "name":  "red-07",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  0,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-08",
+        "name":  "red-08",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-09",
+        "name":  "red-09",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-10",
+        "name":  "red-10",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-11",
+        "name":  "red-11",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-12",
+        "name":  "red-12",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-13",
+        "name":  "red-13",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-14",
+        "name":  "red-14",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-15",
+        "name":  "red-15",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-16",
+        "name":  "red-16",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-17",
+        "name":  "red-17",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-18",
+        "name":  "red-18",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-19",
+        "name":  "red-19",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  256,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-20",
+        "name":  "red-20",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-21",
+        "name":  "red-21",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-22",
+        "name":  "red-22",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-23",
+        "name":  "red-23",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-24",
+        "name":  "red-24",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-25",
+        "name":  "red-25",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-26",
+        "name":  "red-26",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-27",
+        "name":  "red-27",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-28",
+        "name":  "red-28",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-29",
+        "name":  "red-29",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-01",
+        "name":  "purple-01",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-02",
+        "name":  "purple-02",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  512,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "red-30",
+        "name":  "red-30",
+        "rarity":  "red",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-03",
+        "name":  "purple-03",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-04",
+        "name":  "purple-04",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-05",
+        "name":  "purple-05",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-06",
+        "name":  "purple-06",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-07",
+        "name":  "purple-07",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-08",
+        "name":  "purple-08",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-09",
+        "name":  "purple-09",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-10",
+        "name":  "purple-10",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-11",
+        "name":  "purple-11",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-12",
+        "name":  "purple-12",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-13",
+        "name":  "purple-13",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  768,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-14",
+        "name":  "purple-14",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-15",
+        "name":  "purple-15",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-16",
+        "name":  "purple-16",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-17",
+        "name":  "purple-17",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-18",
+        "name":  "purple-18",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-19",
+        "name":  "purple-19",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-20",
+        "name":  "purple-20",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-21",
+        "name":  "purple-21",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-22",
+        "name":  "purple-22",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-23",
+        "name":  "purple-23",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-24",
+        "name":  "purple-24",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-25",
+        "name":  "purple-25",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  1024,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-26",
+        "name":  "purple-26",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-27",
+        "name":  "purple-27",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-28",
+        "name":  "purple-28",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-29",
+        "name":  "purple-29",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-30",
+        "name":  "purple-30",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-31",
+        "name":  "purple-31",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-32",
+        "name":  "purple-32",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-33",
+        "name":  "purple-33",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-34",
+        "name":  "purple-34",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-35",
+        "name":  "purple-35",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-36",
+        "name":  "purple-36",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-37",
+        "name":  "purple-37",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  1280,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-38",
+        "name":  "purple-38",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-39",
+        "name":  "purple-39",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-40",
+        "name":  "purple-40",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-01",
+        "name":  "blue-01",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-02",
+        "name":  "blue-02",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-03",
+        "name":  "blue-03",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-04",
+        "name":  "blue-04",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-05",
+        "name":  "blue-05",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-06",
+        "name":  "blue-06",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-07",
+        "name":  "blue-07",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-08",
+        "name":  "blue-08",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-09",
+        "name":  "blue-09",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  1536,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-10",
+        "name":  "blue-10",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-11",
+        "name":  "blue-11",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-41",
+        "name":  "purple-41",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-12",
+        "name":  "blue-12",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-13",
+        "name":  "blue-13",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "blue-14",
+        "name":  "blue-14",
+        "rarity":  "blue",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-42",
+        "name":  "purple-42",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-43",
+        "name":  "purple-43",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-44",
+        "name":  "purple-44",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-01",
+        "name":  "gray-01",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-45",
+        "name":  "purple-45",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-46",
+        "name":  "purple-46",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  1792,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-02",
+        "name":  "gray-02",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-03",
+        "name":  "gray-03",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-04",
+        "name":  "gray-04",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-47",
+        "name":  "purple-47",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  768,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-48",
+        "name":  "purple-48",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1024,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-49",
+        "name":  "purple-49",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1280,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-50",
+        "name":  "purple-50",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1536,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-51",
+        "name":  "purple-51",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  1792,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-52",
+        "name":  "purple-52",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2048,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-05",
+        "name":  "gray-05",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2304,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-53",
+        "name":  "purple-53",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2560,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "purple-54",
+        "name":  "purple-54",
+        "rarity":  "purple",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  2816,
+                       "y":  2048,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-06",
+        "name":  "gray-06",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  0,
+                       "y":  2304,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-07",
+        "name":  "gray-07",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  256,
+                       "y":  2304,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    },
+    {
+        "id":  "gray-08",
+        "name":  "gray-08",
+        "rarity":  "gray",
+        "kind":  "item",
+        "image":  "/assets/items-sprite.png",
+        "sprite":  {
+                       "x":  512,
+                       "y":  2304,
+                       "w":  256,
+                       "h":  256,
+                       "sheetWidth":  3072,
+                       "sheetHeight":  2560
+                   }
+    }
+]
